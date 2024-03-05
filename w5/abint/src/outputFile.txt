@@ -1,0 +1,104 @@
+******************
+Number of employees working as MANAGER are: 6
+******************
+1. Manager Details:
+Store Details: Matahari Department Store
+Employee Name: David
+Base Pay: $6959077.24
+Number of Hours worked: 19.56hrs
+Payment Rate per hour: $261351.0/hr
+Total Sales in store: $4.98732326E8
+Sales done: $9.8696429E7
+Percentage of sales done: 19.79%
+Gross Payment: $13881768.2
+Remaining store revenue: $3.94276630533E8
+2. Manager Details:
+Store Details: ABC Bookstore
+Employee Name: Upi
+Base Pay: $1128177.51
+Number of Hours worked: 21.38hrs
+Payment Rate per hour: $318312.0/hr
+Total Sales in store: $1.26453143E8
+Sales done: $6.5201922E7
+Percentage of sales done: 51.56%
+Gross Payment: $9123741.3
+Remaining store revenue: $9.4644663614525E7
+3. Manager Details:
+Store Details: Matahari Department Store
+Employee Name: David
+Base Pay: $805658.29
+Number of Hours worked: 26.52hrs
+Payment Rate per hour: $268431.0/hr
+Total Sales in store: $1.362227E8
+Sales done: $6.8587025E7
+Percentage of sales done: 50.35%
+Gross Payment: $9113115.7
+Remaining store revenue: $1.0263648601207499E8
+4. Manager Details:
+Store Details: XYZ Electronics
+Employee Name: Sarah
+Base Pay: $1150498.62
+Number of Hours worked: 28.68hrs
+Payment Rate per hour: $403368.0/hr
+Total Sales in store: $2.74080347E8
+Sales done: $9.1272426E7
+Percentage of sales done: 33.30%
+Gross Payment: $14626956.8
+Remaining store revenue: $2.1002803454944998E8
+5. Manager Details:
+Store Details: XYZ Electronics
+Employee Name: John
+Base Pay: $6505186.74
+Number of Hours worked: 3.46hrs
+Payment Rate per hour: $160902.0/hr
+Total Sales in store: $3.41965594E8
+Sales done: $6.7999515E7
+Percentage of sales done: 19.88%
+Gross Payment: $8121193.8
+Remaining store revenue: $2.7167075617945E8
+6. Manager Details:
+Store Details: ABC Bookstore
+Employee Name: John
+Base Pay: $2648086.7
+Number of Hours worked: 23.14hrs
+Payment Rate per hour: $204134.0/hr
+Total Sales in store: $4.71553137E8
+Sales done: $2.9981038E7
+Percentage of sales done: 6.36%
+Gross Payment: $8477509.6
+Remaining store revenue: $3.7720527882895E8
+******************
+Number of employees working as SALES ASSOCIATES are: 4
+******************
+Store Details: Circle K
+Employee Name: Sarah
+Base Pay: $5289429.42
+Number of Hours worked: 13.33hrs
+Payment Rate per hour: $64452.0/hr
+Sales Rate: 1800.0%
+Total commission: $528942.942
+Gross Payment: $6677517.522
+Store Details: ABC Bookstore
+Employee Name: Emily
+Base Pay: $1512326.99
+Number of Hours worked: 28.67hrs
+Payment Rate per hour: $1796.0/hr
+Sales Rate: 2000.0%
+Total commission: $151232.699
+Gross Payment: $1715051.009
+Store Details: Matahari Department Store
+Employee Name: Emily
+Base Pay: $963228.7
+Number of Hours worked: 30.73hrs
+Payment Rate per hour: $143441.0/hr
+Sales Rate: 9800.0%
+Total commission: $96322.87
+Gross Payment: $5467493.5
+Store Details: Matahari Department Store
+Employee Name: John
+Base Pay: $4571961.12
+Number of Hours worked: 28.11hrs
+Payment Rate per hour: $362333.0/hr
+Sales Rate: 3700.0%
+Total commission: $457196.112
+Gross Payment: $1.5214337862E7

@@ -1,0 +1,76 @@
+Manager
+Matahari Department Store
+David
+6959077.24
+19.56
+261351
+98696429
+498732326
+Sales Associate
+Circle K
+Sarah
+5289429.42
+13.33
+64452
+18
+Manager
+ABC Bookstore
+Upi
+1128177.51
+21.38
+318312
+65201922
+126453143
+Manager
+Matahari Department Store
+David
+805658.29
+26.52
+268431
+68587025
+136222700
+Manager
+XYZ Electronics
+Sarah
+1150498.62
+28.68
+403368
+91272426
+274080347
+Sales Associate
+ABC Bookstore
+Emily
+1512326.99
+28.67
+1796
+20
+Manager
+XYZ Electronics
+John
+6505186.74
+3.46
+160902
+67999515
+341965594
+Sales Associate
+Matahari Department Store
+Emily
+963228.70
+30.73
+143441
+98
+Manager
+ABC Bookstore
+John
+2648086.70
+23.14
+204134
+29981038
+471553137
+Sales Associate
+Matahari Department Store
+John
+4571961.12
+28.11
+362333
+37
